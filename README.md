@@ -36,7 +36,7 @@ Each request comes with an authentication token which gets verified before going
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-URL: "https://note-talking-app.onrender.com/auth"
+URL: "https://note-talking-app.onrender.com"
 
 # Deployment [SERVER]
 
