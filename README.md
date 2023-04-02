@@ -1,3 +1,26 @@
+# Introduction
+
+This is a simple note-taking web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The app allows users to create, read, update, and delete notes.
+
+
+## Features
+- User authentication: users can create an account and log in to access their own notes.
+- Create notes: users can create new notes with a title and a body.
+- Read notes: users can view a list of all their notes, and click on a note to view its details.
+- Update notes: users can edit the title and body of a note.
+- Delete notes: users can delete a note.
+
+# Technologies used
+The app is built using the following technologies:
+
+- MongoDB: a document-oriented database used to store the notes.
+- Express.js: a Node.js web application framework used to handle HTTP requests.
+- React: a JavaScript library used to build the user interface.
+- Node.js: a JavaScript runtime used to run the server-side code.
+- Axios: a promise-based HTTP client used to make API requests to the backend.
+- Bootstrap: a CSS framework used to style the user interface.
+
+
 # Getting Started with Create React App
 
 This is a Note keeping web application designed in MERN stack.
