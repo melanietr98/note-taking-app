@@ -4,7 +4,7 @@ import { setUserNotes } from "../flux/reducers/notes";
 import store from "../flux/store";
 
 
-const API = axios.create({ baseURL: 'http://localhost:3008' });
+const API = axios.create({ baseURL: 'https://notes-backend-pc28.onrender.com' });
 
 API.interceptors.request.use(
   (config) => {
