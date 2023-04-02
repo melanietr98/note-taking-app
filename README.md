@@ -60,7 +60,7 @@ Each request comes with an authentication token which gets verified before going
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 I placed this build folder on netlify and the it got deployed against this
-URL: "https://notetakingapplication2.netlify.app/auth"
+URL: "https://notetakingapplication2.netlify.app/"
 
 # Deployment [SERVER]
 
