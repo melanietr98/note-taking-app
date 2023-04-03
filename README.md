@@ -21,6 +21,13 @@ The app is built using the following technologies:
 - Bootstrap: a CSS framework used to style the user interface.
 
 
+# Trello Board
+![Screenshot](/public/trelloboard.png)
+
+# Wireframe
+![Screenshot](/public/wireframe-1.png)
+
+
 # Getting Started with Create React App
 
 This is a Note keeping web application designed in MERN stack.
