@@ -28,6 +28,9 @@ The app is built using the following technologies:
 ![Screenshot](/public/wireframe-1.png)
 
 
+# LIVE DEMO
+https://notetakingapplication2.netlify.app/
+
 # Getting Started with Create React App
 
 This is a Note keeping web application designed in MERN stack.
