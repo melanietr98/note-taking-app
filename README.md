@@ -17,6 +17,7 @@ The app is built using the following technologies:
 - Express.js: a Node.js web application framework used to handle HTTP requests.
 - React: a JavaScript library used to build the user interface.
 - Node.js: a JavaScript runtime used to run the server-side code.
+- Postman
 - Axios: a promise-based HTTP client used to make API requests to the backend.
 - Bootstrap: a CSS framework used to style the user interface.
 
