@@ -28,8 +28,9 @@ The app is built using the following technologies:
 ![Screenshot](/public/wireframe-1.png)
 
 
-# LIVE DEMO
+# LIVE DEMOS 
 https://notetakingapplication2.netlify.app/
+https://notetakingapp.onrender.com
 
 # Getting Started with Create React App
 
