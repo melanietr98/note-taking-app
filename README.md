@@ -19,7 +19,6 @@ The app is built using the following technologies:
 - Node.js: a JavaScript runtime used to run the server-side code.
 - Postman: an API platform for building and using APIs
 - Axios: a promise-based HTTP client used to make API requests to the backend.
-- Bootstrap: a CSS framework used to style the user interface.
 
 
 # Trello Board
