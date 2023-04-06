@@ -28,6 +28,8 @@ The app is built using the following technologies:
 # Wireframe
 ![Screenshot](/public/wireframe-1.png)
 
+# Diagram
+![Screenshot](/public/diagram.png)
 
 # LIVE DEMOS 
 -  https://notetakingapplication2.netlify.app/
